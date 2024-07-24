@@ -1,5 +1,10 @@
 {
   "custom-object": {
-    "custom-line": "sss"
-  }
+    "custom-line": "Text",
+    "custom-text": "Description"
+  },
+  "custom-list": [
+    {}
+  ],
+  "custom-field": "ID"
 }
