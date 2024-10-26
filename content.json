@@ -4,7 +4,20 @@
     "custom-text": "asdasd"
   },
   "custom-list": [
-    {}
+    {},
+    {
+      "custom-list-item": "asaSasa"
+    },
+    {
+      "custom-list-item": "aSAsas"
+    },
+    {
+      "custom-list-item": "aSa"
+    },
+    {},
+    {
+      "custom-list-item": "aSas"
+    }
   ],
   "custom-field": "ID"
 }
